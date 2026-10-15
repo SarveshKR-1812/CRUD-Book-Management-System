@@ -27,7 +27,10 @@ Create a `Book` model with the following fields:
 6. Implement the Delete operation to remove a book record.
 7. Configure URL routing and create the required HTML templates.
 8. Test all CRUD operations in the browser.
+   <img width="778" height="346" alt="Screenshot 2026-10-15 214449" src="https://github.com/user-attachments/assets/f9978dd5-8184-4c51-ac9d-2571d936e4e3" />
+
 
 **Expected Result:**
+http://127.0.0.1:8000/
 
 A working Django MVT application that performs Create, Read, Update, and Delete operations on book records using Django ORM.
